@@ -5,7 +5,7 @@ public class input_play {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Call the method that handles name and age
+     
         printInput(input);
 
         System.out.println();
@@ -50,4 +50,56 @@ public class input_play {
         System.out.println("You are " + age + " years old.");
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -2,6 +2,11 @@ public class inClassLoops
 { 
     public static void main(String[] args) 
     {
+    	System.out.println("hello world");
+    }
+    
+    
+    {
         int termNum = 10;
         int rows = 7;
 
